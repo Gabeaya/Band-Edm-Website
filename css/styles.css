@@ -6,13 +6,13 @@ h1 {
     
 }
 .sidebar {
-    width: 100;
+    margin: auto;
     float: right;
     background-color: rgb(11, 179, 201);
     width: auto;
     padding: 10px;
     border: solid black;
-    border-width: 5px;
+    border-width: 3px;
     margin-bottom: 10px;
     box-sizing: border-box;
 }
@@ -21,12 +21,13 @@ h1 {
     font-family: 'Gill Sans';
   }
   .column {
-    width: 35%;
+    margin:auto;
+    width: 50%;
     background-color: rgb(11, 179, 201);
     padding: 10px;
     border: solid black;
-    border-width: 5px;
-    margin-bottom: 10px;
+    border-width: 3px;
+    margin-bottom: 10px; 
     box-sizing: border-box;
   }
   .centered-image { 
