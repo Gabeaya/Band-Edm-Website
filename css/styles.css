@@ -11,7 +11,7 @@ h1 {
     background-color: rgb(11, 179, 201);
     width: auto;
     padding: 10px;
-    border: solid black;
+    border: solid rgb(4, 238, 255);
     border-width: 3px;
     margin-bottom: 10px;
     box-sizing: border-box;
@@ -25,7 +25,7 @@ h1 {
     width: 50%;
     background-color: rgb(11, 179, 201);
     padding: 10px;
-    border: solid black;
+    border: solid rgb(4, 238, 255);
     border-width: 3px;
     margin-bottom: 10px; 
     box-sizing: border-box;
@@ -36,4 +36,11 @@ h1 {
     height: 400px;
     display: block;
     margin-bottom: 10px;
+  }
+  .video {
+    margin: auto;
+    width: auto;
+    padding: 10px;
+    margin-bottom: 10px;
+
   }
