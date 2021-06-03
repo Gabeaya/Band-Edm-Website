@@ -1,4 +1,6 @@
-
+body {
+    background-color: aqua;
+}
 h1 {
     text-align: center;
     
@@ -7,7 +9,7 @@ h1 {
     width: 100;
     float: left;
     background-color: rgb(56, 67, 174);
-    width: 50%;
+    width: auto;
     padding: 10px;
     border: solid black;
     border-width: 5px;
