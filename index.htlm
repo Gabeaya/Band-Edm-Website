@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <link href="css/styles.css" rel="stylesheet" type="text/css">
+  <title>Excision: A website dedicated to my favorite dj</title>
+</head>
+<body>
+  <h1>Excision: <em>"Throw Your X Up"</em></h1>
+  <img src="img/excision.jpeg" alt="A photo of Excision.">
+  <div class="sidebar">
+    <h2>Upcoming Shows:</h2>
+    <p><em>The Annilation Tour</em></p>
+    <ul>
+      <li><span class="highlight">1/31</span> Seattle</li>
+      <li><span class="highlight">2/8</span> Las Vegas</li>
+      <li><span class="highlight">3/17</span> Atlanta</li>
+      <li><span class="highlight">4/18</span> San Franciso</li>
+      <li><span class="highlight">4/20</span> Andromeda: <strong>THE FINAL SHOW</strong></li>
+    </ul>
+  </div>
+  <div class="column">
+    <h1>Everything X</h1>
+    <img src="img/x.jpeg" alt="A photo of an X show.">
+    <p>Excision shows are like no other. A virtual apocalypse of twisting and morphing sounds turn massive crowds into a frenzy. Earth-shattering walls of bass relentlessly smash upon the bodies of headbanging fans around the world.
+
+      Hailing from Kelowna, British Columbia, Excision’s diverse skills as a DJ and producer constantly test the limits of electronic music with vastly different sets that encompass a full range of genres. The things you see and hear during the precious time you are engaged by Excision’s sounds will eclipse your mind for a lifetime.
+      
+      With 10+ years of constant touring under his belt, two major music festivals to call his own in Bass Canyon (August – Washington) and Lost Lands (September – Ohio), multiple chart-topping hits and millions of screaming fans around the world, Excision has proven himself as the true champion of Bass Music.
+      
+      Excision’s fourth full-length studio album Apex (2018) adds another groundbreaking achievement to his already staggering collection of original music, following up from Virus (2016), Codename X (2015) and X Rated (2011), plus countless singles, collabs, mixes, and EPs over the last decade.
+      
+      </p>
+  </div>
+</body>
+</html>
